@@ -1,6 +1,5 @@
 # Olá, tudo bem? Eu sou o Felipe Aniceto 👋
 
-##
 <div>
   <a href="https://github.com/lipeaniceto">
   <img align="center" height="170em" src="https://github-readme-stats.vercel.app/api?username=lipeaniceto&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
