@@ -1,16 +1,23 @@
-### Hi there 👋
+### Olá, tudo bem? Eu sou o Felipe Aniceto 👋
 
-<!--
-**lipeAniceto/lipeAniceto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+##
+<div>
+  <a href="https://github.com/lipeaniceto">
+  <img height="175em" src="https://github-readme-stats.vercel.app/api?username=lipeaniceto&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lipeaniceto&layout=compact&langs_count=6&theme=tokyonight"/>
+</div>
+  
+##
+<div style="display: inline_block"><br>
+  <img align="center" alt="lipe-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="lipe-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="lipe-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+</div>
 
-Here are some ideas to get you started:
+##
+<div>
+  <a href="https://www.linkedin.com/in/felipe-aniceto-32a512243/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  <a href = "mailto:contato.felipeaniceto@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Snake animation](https://github.com/lipeaniceto/lipeaniceto/blob/output/github-contribution-grid-snake.svg)
