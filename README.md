@@ -3,7 +3,7 @@
 ##
 <div>
   <a href="https://github.com/lipeaniceto">
-  <img align="center" height="150em" src="https://github-readme-stats.vercel.app/api?username=lipeaniceto&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img align="center" height="160em" src="https://github-readme-stats.vercel.app/api?username=lipeaniceto&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <img align="center" height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lipeaniceto&layout=compact&langs_count=6&theme=tokyonight"/>
 </div>
   
@@ -19,5 +19,3 @@
   <a href="https://www.linkedin.com/in/felipe-aniceto-32a512243/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   <a href = "mailto:contato.felipeaniceto@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>
-
-![Snake animation](https://github.com/lipeAniceto/lipeAniceto/blob/output/github-contribution-grid-snake.svg)
