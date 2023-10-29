@@ -3,7 +3,6 @@
 <div style="display: block">
   <a href="https://github.com/lipeaniceto">
   <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=lipeaniceto&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lipeaniceto&layout=default&langs_count=6&theme=tokyonight"/>
 </div>
   
 ##
